@@ -1,5 +1,9 @@
 # DeepRED: Deep Image Prior Powered by RED
-Link: https://arxiv.org/abs/1903.10176
+
+ICCV 2019, Learning for Computational Imaging (LCI) Workshop:
+http://openaccess.thecvf.com/content_ICCVW_2019/html/LCI/Mataev_DeepRED_Deep_Image_Prior_Powered_by_RED_ICCVW_2019_paper.html
+
+Archive: https://arxiv.org/abs/1903.10176
 
 You can reproduce the results in the article using this code
 
