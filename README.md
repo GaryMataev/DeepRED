@@ -27,3 +27,7 @@ recovery process while avoiding the need to differentiate
 the chosen denoiser, and leading to very effective
 results, demonstrated for several tested problems.
 
+#### Python 3
+#### Pytorch >= 0.4
+
+Follow the comments and instructions in the jupyter notebook 
